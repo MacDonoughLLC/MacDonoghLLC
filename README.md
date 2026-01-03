@@ -1,4 +1,3 @@
-[style.css](https://github.com/user-attachments/files/24413265/style.css)
 <html>
   <head>
     <link rel="stylesheet" href="style.css">
